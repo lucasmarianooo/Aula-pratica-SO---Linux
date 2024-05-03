@@ -1,0 +1,1 @@
+lx | grep ".txt$" | xargs grep "Linux"
