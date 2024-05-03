@@ -1,0 +1,1 @@
+echo "Nova linha de texto" >> ~/Trabalho/notas.txt
