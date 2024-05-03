@@ -1,0 +1,9 @@
+Dentro do arquivo "hello_world.sh", incluir:
+
+#! /bin/bash
+echo "Hello, world!"
+
+
+Tornar o script executável:
+
+cmod +x hello_world.sh
