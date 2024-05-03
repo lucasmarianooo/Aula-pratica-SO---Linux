@@ -1,0 +1,9 @@
+Modificar o conteúdo para:
+
+#! /bin/bash
+echo "Hello, $1!'
+
+
+Exectar o script com o nome:
+
+./Hello_world.sh Linux
