@@ -1,0 +1,8 @@
+Abrir o editor crontab:
+
+crontab ~e
+
+
+Adicionar a seguinte linha ao arquivo crontab:
+
+0 12 * * * /caminho/para/hello_world.sh
