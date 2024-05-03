@@ -1,0 +1,2 @@
+touch script.sh
+cmod 700 script.sh
